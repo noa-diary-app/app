@@ -9,9 +9,6 @@ class Item extends StatelessWidget {
       children: [
         const Text('123'),
         const Text('123'),
-        const Text('123'),
-        const Text('123'),
-        const Text('123'),
       ],
     );
   }
